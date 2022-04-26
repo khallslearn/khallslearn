@@ -8,5 +8,7 @@ https://github.com/khallslearn/Etch-a-Sketch
 2. Rock-Paper-Scissors
 (HTML,CSS and JS)
 https://github.com/khallslearn/Rock-Paper-Scissors
-
+3. Calculator
+(HTML,CSS and JS)
+https://github.com/khallslearn/Calculator-3
 
