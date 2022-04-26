@@ -11,7 +11,7 @@ https://github.com/khallslearn/Rock-Paper-Scissors
 3. Calculator
 (HTML,CSS and JS)
 https://github.com/khallslearn/Calculator-3
-4. Database
+4. Book Database
 (HTML,CSS and JS)
 https://github.com/khallslearn/Book-Database
 
