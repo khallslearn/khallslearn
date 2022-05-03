@@ -20,3 +20,6 @@ https://github.com/khallslearn/Landing-Page
 6. Dashboard/Projects Page
 (HTML,CSS)
 https://github.com/khallslearn/Dashboard
+7. Website with JS
+(HTML,CSS and JS)
+https://github.com/khallslearn/Restaurant-JS-Only
