@@ -16,4 +16,4 @@ https://github.com/khallslearn/Calculator-3
 https://github.com/khallslearn/Restaurant-JS-Only
 5. Daily NASA Page
 (HMTL,CSS,JS and API)
-https://khallslearn.github.io/nasa-image/
+https://khallslearn.github.io/nasa-api-daily/
