@@ -1,9 +1,10 @@
 <h1 align="center"> I'm Kevin Halls</h1>
 <h3 align="center">A Fullstack web developer from United States</h3>
 
-- 📫 Email: **kevin_halls@yahoo.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 Email: **kevin_halls@yahoo.com**
 <p align="left">
 <a href="https://twitter.com/kevdevkev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevdevkev" height="30" width="40" /></a>
 </p>
