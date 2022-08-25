@@ -11,9 +11,6 @@ https://github.com/khallslearn/Rock-Paper-Scissors
 3. Calculator
 (HTML,CSS and JS)
 https://github.com/khallslearn/Calculator-3
-4. Website with JS
-(HTML,CSS and JS)
-https://github.com/khallslearn/Restaurant-JS-Only
-5. Daily NASA Page
+4. Daily NASA Page
 (HMTL,CSS,JS and API)
 https://khallslearn.github.io/nasa-api-daily/
