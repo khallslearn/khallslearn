@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kevin H</h1>
+<h1 align="center"> I'm Kevin H</h1>
 <h3 align="center">A Fullstack web developer from United States</h3>
+
+- 📫 How to reach me **kevin_halls@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
