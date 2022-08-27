@@ -22,10 +22,16 @@ https://github.com/khallslearn/Calculator-3
 4. Daily NASA Page
 (HMTL,CSS,JS and API)
 https://khallslearn.github.io/nasa-api-daily/
+5. Weather API
+(HMTL,CSS,JS and Weather API)
+https://github.com/khallslearn/Weather-API
+6.Grocery List
+https://github.com/khallslearn/Grocery-List2
+
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 Email: **kevin_halls@yahoo.com**
+- 📫 Email: **halls.kevin@yahoo.com**
 <p align="left">
 <a href="https://twitter.com/kevdevkev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevdevkev" height="30" width="40" /></a>
 </p>
