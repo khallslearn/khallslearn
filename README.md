@@ -32,8 +32,7 @@ https://github.com/khallslearn/Grocery-List2
 
 
 <h3 align="left">Connect with me:</h3>
- 📫 Email: **halls.kevin@yahoo.com**
- <a href="halls.kevin@yahoo.com">
+ 📫 Email: <a href="halls.kevin@yahoo.com">**halls.kevin@yahoo.com**</a>
 <p align="left">
 <a href="https://twitter.com/kevdevkev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevdevkev" height="30" width="40" /></a>
 </p>
