@@ -13,9 +13,9 @@
 1. Etch-a-Sketch
 (HTML,CSS and JS)
 https://github.com/khallslearn/Etch-a-Sketch
-2. Rock-Paper-Scissors
+2. Portfolio
 (HTML,CSS and JS)
-https://github.com/khallslearn/Rock-Paper-Scissors
+https://khallslearn.github.io/Portfolio/
 3. Calculator
 (HTML,CSS and JS)
 https://github.com/khallslearn/Calculator-3
@@ -25,9 +25,9 @@ https://khallslearn.github.io/nasa-api-daily/
 5. Weather API
 (HMTL,CSS,JS and Weather API)
 https://github.com/khallslearn/Weather-API
-6. Grocery List
+6. List App
 ((Full Stack APP with HMTL,CSS,JS,Express and MongoDB)
-https://github.com/khallslearn/Grocery-List2
+https://besttodoever.herokuapp.com/
 
 
 
