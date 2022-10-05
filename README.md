@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Kevin Halls</h1>
+<h1 align="center"> I'm Kevin</h1>
 <h3 align="center">A Fullstack web developer from United States</h3>
 
 
@@ -26,9 +26,11 @@ https://github.com/khallslearn/nasa-api-daily/
 (HMTL,CSS,JS and Weather API)
 https://github.com/khallslearn/Weather-API
 6. List App
-((Full Stack APP with HMTL,CSS,JS,Express and MongoDB)
+(Full Stack APP with HMTL,CSS,JS,Express and MongoDB)
 https://besttodoever.herokuapp.com/
-
+7. Sports Statistics Comparision App
+(HMTL,CSS,JS,EJS,Express and MongoDB)
+https://github.com/khallslearn/Who-is-better
 
 
 <h3 align="left">Connect with me:</h3>
