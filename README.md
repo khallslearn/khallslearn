@@ -22,6 +22,7 @@ https://github.com/khallslearn/nasa-api-daily/
 4. Weather API
 (HMTL,CSS,JS and Weather API)
 https://github.com/khallslearn/Weather-API
+
 5.Movie Database App
 (HMTL,CSS,JS and Movie API)
 https://github.com/khallslearn/Movie-App
