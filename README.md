@@ -10,21 +10,21 @@
 
 <h3 align="left">Projects:</h3>
 
-1. Etch-a-Sketch
-(HTML,CSS and JS)
-https://github.com/khallslearn/Etch-a-Sketch
-2. Portfolio
+1. Portfolio
 (HTML,CSS and JS)
 https://khallslearn.github.io/Portfolio/
-3. Calculator
+2. Calculator
 (HTML,CSS and JS)
 https://github.com/khallslearn/Calculator-3
-4. Daily NASA Page
+3. Daily NASA Page
 (HMTL,CSS,JS and API)
 https://github.com/khallslearn/nasa-api-daily/
-5. Weather API
+4. Weather API
 (HMTL,CSS,JS and Weather API)
 https://github.com/khallslearn/Weather-API
+5.Movie Database App
+(HMTL,CSS,JS and Movie API)
+https://github.com/khallslearn/Movie-App
 6. List App
 (Full Stack APP with HMTL,CSS,JS,Express and MongoDB)
 https://besttodoever.herokuapp.com/
