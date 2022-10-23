@@ -38,4 +38,4 @@ https://github.com/khallslearn/Who-is-better
 <p align="left">
 <a href="https://twitter.com/kevdevkev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevdevkev" height="30" width="40" /></a>
 </p>
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khallslearnshow_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])](https://github.com/khallslearn/github-readme-stats)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
