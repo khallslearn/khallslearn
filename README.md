@@ -17,7 +17,7 @@ https://khallslearn.github.io/Portfolio/
 (HTML,CSS and JS)
 https://github.com/khallslearn/Calculator-3
 3. Daily NASA Page
-(HMTL,CSS,JS and API)
+(HMTL,CSS,JS and Nasa API)
 https://github.com/khallslearn/nasa-api-daily/
 4. Weather API
 (HMTL,CSS,JS and Weather API)
