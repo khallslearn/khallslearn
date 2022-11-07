@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Kevin H</h1>
+<h1 align="center"> I'm Kevin Halls</h1>
 <h3 align="center">A Fullstack Web Developer from United States</h3>
 
 
