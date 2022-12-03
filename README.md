@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Kevin Halls</h1>
-<h3 align="center">A Fullstack Web Developer from United States</h3>
+<h3 align="center">A Web Developer from United States</h3>
 
 
 
