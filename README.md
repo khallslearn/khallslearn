@@ -26,7 +26,7 @@ https://github.com/khallslearn/Weather-API
 (HMTL,CSS,JS and Movie API)
 https://github.com/khallslearn/Movie-App
 6. List App
-(Full Stack APP with HMTL,CSS,JS,Express and MongoDB)
+(HMTL,CSS,JS,Express and MongoDB)
 https://besttodoever.herokuapp.com/
 7. Sports Comparison App
 (HMTL,CSS,JS,EJS,Express and MongoDB)
