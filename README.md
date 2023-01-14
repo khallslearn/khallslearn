@@ -29,7 +29,7 @@ https://github.com/khallslearn/Movie-App
 (HMTL,CSS,JS,Express and MongoDB)
 https://besttodoever.herokuapp.com/
 7. Sports Comparison App
-(HMTL,CSS,JS,EJS,Express and MongoDB)
+(HMTL,CSS,JS,Express and MongoDB)
 https://github.com/khallslearn/Who-is-better
 
 
