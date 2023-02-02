@@ -32,7 +32,7 @@ https://github.com/khallslearn/Movie-App
 https://besttodoever.herokuapp.com/
 7. Sports Comparison App
 (HMTL,CSS,JS,Express and MongoDB)
-https://github.com/khallslearn/Who-is-better
+https://github.com/khallslearn/PlayerVS
 
 
 <h3 align="left">Connect with me:</h3>
